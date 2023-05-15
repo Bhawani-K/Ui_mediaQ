@@ -40,7 +40,8 @@ p{
     color: #fff;
 }
 
-@media screen and (max-width:600px) and (min-width:400px){
+@media screen and (max-width:800px){
+    /* @media screen and (max-width:600px) and (min-width:400px){ */
     body{
         background: #dc143c
     }
